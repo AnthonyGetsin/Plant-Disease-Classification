@@ -1,1 +1,3 @@
 # Plant-Disease-Classification
+
+This Jupyter notebook builds a CNN-based deep learning model for plant disease classification using image data. The project includes data preprocessing with real-time augmentation techniques like rotation, zoom, and flipping to enhance model generalization. The model architecture consists of multiple convolutional and pooling layers for feature extraction, followed by fully connected and dropout layers to reduce overfitting. It is trained using the Adam optimizer and categorical crossentropy loss function, with accuracy and loss tracked over epochs. The notebook also visualizes the training process and evaluates the model’s performance on unseen data, offering an efficient and scalable tool for precise and rapid plant disease detection.
